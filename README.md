@@ -27,3 +27,14 @@ explanation of projects and links
 links to linkedIn
 link to email
 link to resume
+
+<!-- React files needed -->
+ Head
+ Header
+ Main
+ Footer
+Index.js
+CSS
+
+be sure to update CSS for multi screen layout
+decide where to deploy.
